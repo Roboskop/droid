@@ -1,6 +1,6 @@
 cyber-droid
 ===========
-  CyberDroid kütüphanesi Roboskop Şirketi tarafından geliştirilen kart ile kontrol edilen araçların sürüşünü kolaylaştırmak, bluetooth üzerinden telefon ile kolayca haberleşebilmesi için geliştirilmiştir.
+  Droid kütüphanesi Roboskop tarafından geliştirilen kart ile kontrol edilen araçların sürüşünü kolaylaştırmak, bluetooth üzerinden telefon ile kolayca haberleşebilmesi için geliştirilmiştir.
 
 
 Özellikler
@@ -15,13 +15,13 @@ Kütüphane 3 parçadan oluşur. Sürücü, motor ve iletişim protokol kütüph
 Sürücü
 ================
 +ilerle( int hız , int direksiyon ) veya throttle( int th , int steering )
-İlerle fonksiyonu CyberDroid aracını belirtilen hız ve direksiyon yönünde hareket ettirir. 
+İlerle fonksiyonu Droid aracını belirtilen hız ve direksiyon yönünde hareket ettirir. 
 
 Örnek kullanım : 
 
-        #include <CyberDroid.h>
+        #include <Droid.h>
         
-        CyberDroid droid;
+        Droid droid;
 
         void setup() {  }
 
