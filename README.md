@@ -1,4 +1,4 @@
-cyber-droid
+Kütüphane
 ===========
   Droid kütüphanesi Roboskop tarafından geliştirilen kart ile kontrol edilen araçların sürüşünü kolaylaştırmak, bluetooth üzerinden telefon ile kolayca haberleşebilmesi için geliştirilmiştir.
 
